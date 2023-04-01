@@ -16,7 +16,6 @@ class Missions extends React.Component {
           destinatio={ mission.destinatio }
         />
         ))}
-        ;
       </div>
     );
   }
